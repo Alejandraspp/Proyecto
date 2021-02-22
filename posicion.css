@@ -3,19 +3,14 @@ p {
     font-size: 25px;
 }
 
-#cabecera{
-    font-size: 150px;
-    position: absolute;
-	color: blue;
-	background-color: transparent;
-	text-align: center;
-}
+
 #cabecera{   
 	position: absolute;
-    top: 2%;
+    top: 4%;
     left: 2%;
     height: 15%;
     width: 40%;
+    color: red;
 }
 #indice{
 	position: absolute;
@@ -27,16 +22,32 @@ p {
 #contenido{
 	position: absolute;
 	top:30%;
-	left:30%;
+	left: 30%;
 	width: 65%;
-	height:75%;
+	height:90%;
+	background-color: white;
+
 }
 #piedepagina{
 	position: absolute;
-	top:89%;
+	top:3%;
 	left:30%;
 	height: 10%;
 	width: 65%;
 }
-.b{
-    background-color: white;
+
+.f{
+	
+	left: 2%;
+	width: 80%;
+	height: 80%;
+	top: 10%;
+
+}
+
+#imagenes{
+	top: 40%;
+	position: absolute;
+	left: 3%;
+	
+}
